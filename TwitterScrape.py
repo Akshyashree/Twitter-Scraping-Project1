@@ -29,7 +29,7 @@ def download_json(df):
     href = f'<a href="data:file/json;base64,{b64}" download="twitter_data.json">Download JSON</a>'
     return href
 
-#store tweets 
+#store tweets in Mongodb Atlas
 def store_tweets(df):
     client = pymongo.MongoClient("mongodb+srv://akshya:Csa180@cluster0.yfk4do2.mongodb.net/?retryWrites=true&w=majority")
     db = client["twitter"]

@@ -2,7 +2,9 @@
 # Allows to scrape the twitter data and store that in the database and allow the user to download the data with multiple data formats.
 
 # Project Workflow and Execution
-This project is a basic web application that performs Twitter scraping, data storage and export functionalities. It is written in Python, using the following libraries: snscrape, pandas, pymongo, streamlit and base64. Below is a workflow and execution plan for the project:
+This project is a basic web application that performs Twitter scraping, data storage and export functionalities. It is written in Python, using the following libraries: snscrape, pandas, pymongo, streamlit and base64.
+
+Below is a workflow and execution plan for the project:
 
 # Workflow
 1. User visits the webpage created by the application

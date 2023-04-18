@@ -6,7 +6,7 @@ This project is a basic web application that performs Twitter scraping, data sto
 
 Below is a workflow and execution plan for the project:
 
-#Installations
+# Installations
 1. VScode 
 2. Create account in Mogodb Atlas
 3. Terminal command - pip install snscrape pandas pymongo streamlit 
